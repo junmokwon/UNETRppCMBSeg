@@ -5,15 +5,15 @@ Official implementation of **Enhancing Cerebral Microbleed Segmentation with Pre
 If you find this code useful in your research, please consider citing:
 
 ```
-    @inproceedings{kwon2024unetrpp,
-	author={Kwon, Junmo and Seo, Sang Won and Park, Hyunjin},
-	title={Enhancing Cerebral Microbleed Segmentation with Pretrained UNETR++},
-	booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-	pages={3372--3377},
-	year={2024},
-	doi={10.1109/BIBM62325.2024.10822393},
-	organization={IEEE}
-    }
+@inproceedings{kwon2024unetrpp,
+    author={Kwon, Junmo and Seo, Sang Won and Park, Hyunjin},
+    title={Enhancing Cerebral Microbleed Segmentation with Pretrained UNETR++},
+    booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+    pages={3372--3377},
+    year={2024},
+    doi={10.1109/BIBM62325.2024.10822393},
+    organization={IEEE}
+}
 ```
 
 ## Implementations
